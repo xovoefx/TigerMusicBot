@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Yukki Support
-    url: https://t.me/YukkiSupport
+  - name: Tiger Support
+    url: https://t.me/TigerNetworkChat
     about: Direct chat on non-inquiries subjects.
   - name: Documentation
-    url: https://Yukki.tech/
+    url: https://Tiger.tech/
     about: Documentation for getting started with bot.
