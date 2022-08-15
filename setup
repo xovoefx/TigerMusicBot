@@ -76,7 +76,7 @@ node(){
 repo(){
 	# Get git repo if the installer is runned standalone
 	[[ ! "TigerMusicBot" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
-	git clone https://github.com/notreallyshikhar/TigerMusicBot &&  cd TigerMusicBot
+	git clone https://github.com/TigerNetwork/TigerMusicBot &&  cd TigerMusicBot
 }
 
 

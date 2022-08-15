@@ -10,9 +10,9 @@
 * Multi-Language support
 
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/TigerMusicBot/)]
+# ⚡️ Getting Started [[Documentation](https://TigerNetwork.gitbook.io/TigerMusicBot/)]
 
-> The official [documentation site](https://notreallyshikhar.gitbook.io/TigerMusicBot/) contains a lot of information. The best place to start is from the deployment section.
+> The official [documentation site](https://TigerNetwork.gitbook.io/TigerMusicBot/) contains a lot of information. The best place to start is from the deployment section.
 
 ## ⚠️ Heroku / Okteto / Railway
 
@@ -21,13 +21,13 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 ## 🖇 Generating Pyrogram String Session
 
 <p>
-<a href="https://replit.com/@NotReallyShikhar/Tiger-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://replit.com/@TigerNetwork/Tiger-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 <a href="https://t.me/TigerStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
 ## 🖇 VPS Deployment
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/TigerMusicBot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+Checkout [Docs](https://TigerNetwork.gitbook.io/TigerMusicBot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 # 🏷 Support / Assistance
