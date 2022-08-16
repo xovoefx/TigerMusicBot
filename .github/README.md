@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/e8c73045e4bcbe209283b.jpg" align="right" width="200" height="200"/>
 
 # Tiger Music Bot <img src="https://img.shields.io/github/v/release/TigerNetwork/TigerMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
